@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 
+
+
+- 🔭 I’m currently Studying 
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: r-g-hunt@hotmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am also a 3D modeler and 3D Animator (Though it's been a while since I've done animation) and I hope one day to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
+
 
 <!--
 **ryan-hunt-fed/ryan-hunt-fed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
