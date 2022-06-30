@@ -4,7 +4,6 @@
 - 🔭 I’m currently Studying 
 - 🌱 I’m currently learning Web Development to become a front end developer and seeing how that goes either stick with it or transition to a designer rather than a developer.
 - 📫 How to reach me: r-g-hunt@hotmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a 3D modeler and 3D Animator (Though it's been a while since I've done animation) and I hope one day to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
 
 
