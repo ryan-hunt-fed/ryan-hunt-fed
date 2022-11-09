@@ -1,5 +1,5 @@
 
-<img  alt="header"  src="https://media-exp1.licdn.com/dms/image/D5616AQFd71N3r3OA9Q/profile-displaybackgroundimage-shrink_350_1400/0/1664767173268?e=1673481600&v=beta&t=foEFL1KMaZ_kz6UZxorQGbkQyg85uY5YM4zWZLsZ2RA" />
+<img  alt="header" width="1000px"  src="https://media-exp1.licdn.com/dms/image/D5616AQFd71N3r3OA9Q/profile-displaybackgroundimage-shrink_350_1400/0/1664767173268?e=1673481600&v=beta&t=foEFL1KMaZ_kz6UZxorQGbkQyg85uY5YM4zWZLsZ2RA" />
 
 # Ryan Hunt
 ## Frontend Web Developer || 3D artist || Interested in webGL & Game Art
