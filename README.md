@@ -1,4 +1,8 @@
-### Hi there 
+
+
+
+### Ryan Hunt
+## Frontend Web Developer || 3D artist || Interested in webGL and Game Art
 
 
 - 🔭 I’m currently Studying 
