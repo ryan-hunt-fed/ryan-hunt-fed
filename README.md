@@ -8,10 +8,13 @@
 
 ## Contact
 
-[<img align='left' alt='linkedin' width='22px' src='https://img.icons8.com/color/512/linkedin-circled.png />'][linkedin]
+![<img align='left' alt='linkedin' width='22px' src='https://img.icons8.com/color/512/linkedin-circled.png />'][linkedin]
 
 
 [linkedin]:https://www.linkedin.com/in/ryanhuntfwd/
+[website]: https://ryan-hunt-fwd-portfolio.web.app/
+[3d]: https://ryan_hunt.artstation.com/
+[instagram]:https://www.instagram.com/cm_primus/ 
 
 <!--
 **ryan-hunt-fed/ryan-hunt-fed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
