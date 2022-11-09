@@ -8,7 +8,7 @@
 
 ## Contact
 
-![<img align='left' alt='linkedin' width='22px' src='https://img.icons8.com/color/512/linkedin-circled.png' />][linkedin]
+[<img align="left" alt="linkedin" width="22px" src="https://img.icons8.com/color/512/linkedin-circled.png" />][linkedin]
 
 
 [linkedin]:https://www.linkedin.com/in/ryanhuntfwd/
