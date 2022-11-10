@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning any areas I can get my hands on when it comes to areas that intrest me, currently being frontend development. I'm always eager to learn and improve all my skills.
 - ⚡ Fun fact: I am also a trained 3D Modeler and 3D Animator, through previous study at Yoobee College of Creative Innovation and my own learning. While I am open to trying to get into the Games industry, I hope one day, as part of my own asperations, to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
 
+<br />
+
 ## Code Knowledge
 
 <img align="left" alt="javascript" width="30px" src="https://img.icons8.com/color/512/javascript.png" />
@@ -18,6 +20,7 @@
 <img align="left" alt="node" width="30px" src="https://img.icons8.com/color/512/nodejs.png" />
 <img align="left" alt="redux" width="30px" src="https://img.icons8.com/color/512/redux.png" />
 
+<br />
 
 ## Areas of Code & Other Areas Wanting to Develop or Learn 
 
@@ -30,6 +33,8 @@
 - Game Development
 - WebFlow
 - Bootstrap
+
+<br />
 
 ## Contact
 
