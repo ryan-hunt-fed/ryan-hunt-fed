@@ -10,13 +10,13 @@
 
 ## Code Knowledge
 
-[<img align="left" alt="javascript" width="35px" src="https://img.icons8.com/color/512/javascript.png" />]
-[<img align="left" alt="react" width="35px" src="https://img.icons8.com/plasticine/512/react.png" />]
-[<img align="left" alt="html" width="35px" src="https://img.icons8.com/color/512/html-5.png" />]
-[<img align="left" alt="css" width="35px" src="https://img.icons8.com/fluency/512/css3.png" />]
-[<img align="left" alt="sass" width="35px" src="https://img.icons8.com/color/512/sass.png" />]
-[<img align="left" alt="node" width="35px" src="https://img.icons8.com/color/512/nodejs.png" />]
-[<img align="left" alt="redux" width="35px" src="https://img.icons8.com/color/512/redux.png" />]
+<img align="left" alt="javascript" width="30px" src="https://img.icons8.com/color/512/javascript.png" />
+<img align="left" alt="react" width="30px" src="https://img.icons8.com/plasticine/512/react.png" />
+<img align="left" alt="html" width="30px" src="https://img.icons8.com/color/512/html-5.png" />
+<img align="left" alt="css" width="30px" src="https://img.icons8.com/fluency/512/css3.png" />
+<img align="left" alt="sass" width="30px" src="https://img.icons8.com/color/512/sass.png" />
+<img align="left" alt="node" width="30px" src="https://img.icons8.com/color/512/nodejs.png" />
+<img align="left" alt="redux" width="30px" src="https://img.icons8.com/color/512/redux.png" />
 
 
 ## Areas of Code & Other Areas Wanting to Develop or Learn 
@@ -33,10 +33,10 @@
 
 ## Contact
 
-[<img align="left" alt="linkedin" width="35px" src="https://img.icons8.com/color/512/linkedin-circled.png" />][linkedin]
-[<img align="left" alt="website" width="35px" src="https://img.icons8.com/fluency/512/domain.png" />][website]
-[<img align="left" alt="3D" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-artstation-a-leading-showcase-platform-for-games-film-media-and-entertainment-artists-logo-color-tal-revivo.png" />][3d]
-[<img align="left" alt="instagram" width="35px" src="https://img.icons8.com/fluency/512/instagram-new.png" />][instagram]
+[<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/512/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="website" width="30px" src="https://img.icons8.com/fluency/512/domain.png" />][website]
+[<img align="left" alt="3D" width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-artstation-a-leading-showcase-platform-for-games-film-media-and-entertainment-artists-logo-color-tal-revivo.png" />][3d]
+[<img align="left" alt="instagram" width="30px" src="https://img.icons8.com/fluency/512/instagram-new.png" />][instagram]
 
 
 
