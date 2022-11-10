@@ -2,7 +2,7 @@
 
 <h1 align="center"> Ryan Hunt </h1>
 <h2 align="center"> Frontend Web Developer || 3D artist </h2>
-[](https://komarev.com/ghpvc/?username=ryan-hunt-fed)
+
 
 
 - 🔭 I’m currently looking for work or internships as a Frontend Web Developer with a UI focus. I am not currently looking but am also open to 3D modelling interships, whether they be character or environment focused.  
