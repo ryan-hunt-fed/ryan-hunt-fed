@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am also a trained 3D Modeler and 3D Animator, through previous study at Yoobee College of Creative Innovation and my own learning. While I am open to trying to get into the Games industry, I hope one day, as part of my own asperations, to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
 
 
-<h2>Code Knowledge</h2>
+<h2>Current Code Knowledge</h2>
 
 <img align="left" alt="javascript" width="30px" src="https://img.icons8.com/color/512/javascript.png" />
 <img align="left" alt="html" width="30px" src="https://img.icons8.com/color/512/html-5.png" />
