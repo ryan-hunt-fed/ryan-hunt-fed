@@ -4,9 +4,8 @@
 <h2 align="center"> Frontend Web Developer || 3D artist </h2>
 
 
-
-- 🔭 I’m currently looking for work or internships as a Frontend Web Developer with a UI focus. I am not currently looking but am also open to 3D modelling interships, whether they be character or environment focused.  
-- 🌱 I’m currently learning any areas I can get my hands on when it comes to areas that intrest me, currently being frontend development. I'm always eager to learn and improve all my skills.
+- 🔭 I’m currently looking for work or internships as a Frontend Web Developer with a UI focus, as that is the area I seem to enjoy the most. I am not currently looking but I am also open to 3D modelling interships, whether they be character or environment focused.  
+- 🌱 I’m currently learning any areas I can get my hands on when it comes to areas that interest me, currently being frontend development and UI. I'm always eager to learn and improve all my skills so I can get to a point of acomplishment with the certain skills.
 - ⚡ Fun fact: I am also a trained 3D Modeler and 3D Animator, through previous study at Yoobee College of Creative Innovation and my own learning. While I am open to trying to get into the Games industry, I hope one day, as part of my own asperations, to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
 
 
@@ -25,15 +24,11 @@
 
 <h2>Areas of Code & Other Areas Wanting to Develop or Learn</h2> 
 
-- UI elements
-- webGl
-- Three.js
-- C+/C# - for Game Development 
-- UI Design
-- CSS Frameworks
-- Game Development
-- WebFlow
-- Bootstrap
+- UI elements  - UI Design
+- webGl        - CSS Frameworks
+- Three.js     - WebFlow
+- Bootstrap    - Game Development
+- C+/C# - for Game Development specifically
 
 
 <h2>Contact</h2>
@@ -42,8 +37,6 @@
 [<img align="left" alt="website" width="30px" src="https://img.icons8.com/fluency/512/domain.png" />][website]
 [<img align="left" alt="3D" width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-artstation-a-leading-showcase-platform-for-games-film-media-and-entertainment-artists-logo-color-tal-revivo.png" />][3d]
 [<img align="left" alt="instagram" width="30px" src="https://img.icons8.com/fluency/512/instagram-new.png" />][instagram]
-
-
 
 
 [linkedin]:https://www.linkedin.com/in/ryanhuntfwd/
