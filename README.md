@@ -24,10 +24,14 @@
 
 <h2>Areas of Code & Other Areas Wanting to Develop or Learn</h2> 
 
-- UI elements  - UI Design
-- webGl        - CSS Frameworks
-- Three.js     - WebFlow
-- Bootstrap    - Game Development
+- UI elements 
+- UI Design 
+- CSS Frameworks
+- webGl        
+- Three.js     
+- Bootstrap 
+- WebFlow
+- Game Development
 - C+/C# - for Game Development specifically
 
 
