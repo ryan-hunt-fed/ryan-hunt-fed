@@ -13,11 +13,11 @@
 <h2>Code Knowledge</h2>
 
 <img align="left" alt="javascript" width="30px" src="https://img.icons8.com/color/512/javascript.png" />
-<img align="left" alt="react" width="30px" src="https://img.icons8.com/plasticine/512/react.png" />
 <img align="left" alt="html" width="30px" src="https://img.icons8.com/color/512/html-5.png" />
 <img align="left" alt="css" width="30px" src="https://img.icons8.com/fluency/512/css3.png" />
 <img align="left" alt="sass" width="30px" src="https://img.icons8.com/color/512/sass.png" />
 <img align="left" alt="node" width="30px" src="https://img.icons8.com/color/512/nodejs.png" />
+<img align="left" alt="react" width="30px" src="https://img.icons8.com/plasticine/512/react.png" />
 <img align="left" alt="redux" width="30px" src="https://img.icons8.com/color/512/redux.png" />
 
 <br />
