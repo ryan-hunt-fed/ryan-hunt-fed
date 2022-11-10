@@ -1,21 +1,44 @@
-
 <img  alt="header" width="1000px"  src="https://media-exp1.licdn.com/dms/image/D5616AQFd71N3r3OA9Q/profile-displaybackgroundimage-shrink_350_1400/0/1664767173268?e=1673481600&v=beta&t=foEFL1KMaZ_kz6UZxorQGbkQyg85uY5YM4zWZLsZ2RA" />
 
 # Ryan Hunt
-## Frontend Web Developer || 3D artist || Interested in webGL & Game Art
+## Frontend Web Developer || 3D artist 
 
 
-- 🔭 I’m currently Studying 
-- 🌱 I’m currently learning Web Development to become a front end developer and seeing how that goes either stick with it or transition to a designer rather than a developer. I would also like to look into game devlopment as I would like to make my own games at some point too.
-- ⚡ Fun fact: I am also a 3D Modeler and 3D Animator (Though it's been a while since I've done animation) and I hope one day to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
+- 🔭 I’m currently looking for work or internships as a Frontend Web Developer with a UI focus. I am not currently looking but am also open to 3D modelling interships, whether they be character or environment focused.  
+- 🌱 I’m currently learning any areas I can get my hands on when it comes to areas that intrest me, currently being frontend development. I'm always eager to learn and improve all my skills.
+- ⚡ Fun fact: I am also a trained 3D Modeler and 3D Animator, through previous study at Yoobee College of Creative Innovation and my own learning. While I am open to trying to get into the Games industry, I hope one day, as part of my own asperations, to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
 
+## Code Knowledge
+
+[<img align="left" alt="javascript" width="35px" src="https://img.icons8.com/color/512/javascript.png" />]
+[<img align="left" alt="react" width="35px" src="https://img.icons8.com/plasticine/512/react.png" />]
+[<img align="left" alt="html" width="35px" src="https://img.icons8.com/color/512/html-5.png" />]
+[<img align="left" alt="css" width="35px" src="https://img.icons8.com/fluency/512/css3.png" />]
+[<img align="left" alt="sass" width="35px" src="https://img.icons8.com/color/512/sass.png" />]
+[<img align="left" alt="node" width="35px" src="https://img.icons8.com/color/512/nodejs.png" />]
+[<img align="left" alt="redux" width="35px" src="https://img.icons8.com/color/512/redux.png" />]
+
+
+## Areas of Code & Other Areas Wanting to Develop or Learn 
+
+- UI elements
+- webGl
+- Three.js
+- C+/C# - for Game Development 
+- UI Design
+- CSS Frameworks
+- Game Development
+- WebFlow
+- Bootstrap
 
 ## Contact
 
-[<img align="left" alt="linkedin" width="26px" src="https://img.icons8.com/color/512/linkedin-circled.png" />][linkedin]
-[<img align="left" alt="website" width="26px" src="https://img.icons8.com/fluency/512/domain.png" />][website]
-[<img align="left" alt="3D" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-artstation-a-leading-showcase-platform-for-games-film-media-and-entertainment-artists-logo-color-tal-revivo.png" />][3d]
-[<img align="left" alt="instagram" width="26px" src="https://img.icons8.com/ultraviolet/512/instagram-new.png" />][instagram]
+[<img align="left" alt="linkedin" width="35px" src="https://img.icons8.com/color/512/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="website" width="35px" src="https://img.icons8.com/fluency/512/domain.png" />][website]
+[<img align="left" alt="3D" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-artstation-a-leading-showcase-platform-for-games-film-media-and-entertainment-artists-logo-color-tal-revivo.png" />][3d]
+[<img align="left" alt="instagram" width="35px" src="https://img.icons8.com/fluency/512/instagram-new.png" />][instagram]
+
+
 
 
 [linkedin]:https://www.linkedin.com/in/ryanhuntfwd/
