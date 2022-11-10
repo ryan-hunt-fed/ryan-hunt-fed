@@ -1,6 +1,6 @@
 <img  alt="header" width="1000px"  src="https://media-exp1.licdn.com/dms/image/D5616AQFd71N3r3OA9Q/profile-displaybackgroundimage-shrink_350_1400/0/1664767173268?e=1673481600&v=beta&t=foEFL1KMaZ_kz6UZxorQGbkQyg85uY5YM4zWZLsZ2RA" />
 
-<h1 align="center"> Ryan Hunt </h1>
+<h1 align="center" style="border-bottom: none"> Ryan Hunt </h1>
 <h2 align="center"> Frontend Web Developer || 3D artist </h2>
 
 
