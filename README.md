@@ -21,6 +21,7 @@
 <img align="left" alt="redux" width="30px" src="https://img.icons8.com/color/512/redux.png" />
 
 <br />
+<br />
 
 ## Areas of Code & Other Areas Wanting to Develop or Learn 
 
@@ -34,7 +35,6 @@
 - WebFlow
 - Bootstrap
 
-<br />
 
 ## Contact
 
