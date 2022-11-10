@@ -26,6 +26,7 @@
 
 - UI elements 
 - UI Design 
+- Vue.js
 - CSS Frameworks
 - webGl        
 - Three.js     
