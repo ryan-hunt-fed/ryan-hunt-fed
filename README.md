@@ -22,7 +22,7 @@
 <br />
 <br />
 
-<h2>Areas of Code & Other Areas Wanting to Develop or Learn</h2> 
+<h2>Areas of Interest to Develop or Learn</h2> 
 
 - UI elements 
 - UI Design 
