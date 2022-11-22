@@ -6,7 +6,7 @@
 
 - I'm a Frontend Web Developer and 3D Artist based in Wellington, New Zealand.
 - I’m currently looking for work or Internships/Graduate programs as a Frontend Web Developer with a UI focus, as that is the area I seem to enjoy the most. Otherewise I am looking for possible training or internships for Web Design. I am not currently looking but I am also open to 3D modelling interships, whether they be character or environment focused.  
-- I’m currently learning any areas I can get my hands on when it comes to areas that interest me, currently being frontend development and UI. I'm always eager to learn and improve all my skills so I can get to a point of acomplishment with the certain skills.
+- I’m currently learning any areas I can get my hands on when it comes to areas that interest me, currently being frontend development/design and UI. I'm always eager to learn and improve all my skills so I can get to a point of acomplishment with the certain skills.
 - I'm also a trained 3D Modeler and 3D Animator, through previous study at Yoobee College of Creative Innovation and my own learning. While I am open to trying to get into the Games industry, I hope one day as part of my own asperations, to set up a buisness to either make and sell my own miniatures or to make my own games or game assets.
 
 
