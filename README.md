@@ -25,7 +25,7 @@
 
 <h2>Areas of Interest to Develop/Learn</h2> 
 
-- UI elements 
+- UI Elements 
 - UI Design 
 - Vue.js
 - CSS Frameworks
